@@ -13,7 +13,7 @@ var fromMap = map[int]ConvertFunc{
 
 var toMap = map[int]ConvertFunc{
 	WGS84:       doNothing,
-	WebMercator: WebMercatorToWGS84,
+	WebMercator: WGS84ToWebMercator,
 	Mercator:    WGS84ToMercator,
 	GCJ02:       WGS84ToGCJ02,
 }
