@@ -10,11 +10,11 @@ import (
 // Map URL
 const (
 	// GoogleSatelliteURL google.com/maps satellite map URL
-	GoogleSatelliteURL = "http://mt[0,1,2,3].google.cn/vt/lyrs=y&hl=zh-CN&hl=zh-CN&gl=CN&x={x}&y={y}&z={z}&s=Gali"
+	GoogleSatelliteURL = "http://mt[0,1,2,3].google.com/vt/lyrs=y&hl=zh-CN&hl=zh-CN&gl=CN&x={x}&y={y}&z={z}&s=Gali"
 	// GoogleImageURL google.com/maps image map URL
-	GoogleImageURL = "http://mt[0,1,2,3].google.cn/vt/lyrs=m&hl=zh-CN&hl=zh-CN&gl=CN&x={x}&y={y}&z={z}&s=Gali"
+	GoogleImageURL = "http://mt[0,1,2,3].google.com/vt/lyrs=m&hl=zh-CN&hl=zh-CN&gl=CN&x={x}&y={y}&z={z}&s=Gali"
 	// GoogleTerrainURL google.com/maps terrain map URL
-	GoogleTerrainURL = "http://mt[0,1,2,3].google.cn/vt/lyrs=p&hl=zh-CN&hl=zh-CN&gl=CN&x={x}&y={y}&z={z}&s=Gali"
+	GoogleTerrainURL = "http://mt[0,1,2,3].google.com/vt/lyrs=p&hl=zh-CN&hl=zh-CN&gl=CN&x={x}&y={y}&z={z}&s=Gali"
 	// AMapSatelliteURL amap.com satellite map URL
 	AMapSatelliteURL = "http://webst0[1,2,3,4].is.autonavi.com/appmaptile?style=6&x={x}&y={y}&z={z}"
 	// AMapCoverURL amap.com cover map URL
